@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-family: 'Open Sans';
+    background: rgb(47, 46, 46);
+    color: rgba(255, 255, 255, 0.8);
+}
+
+#score {
+    float:left;
+    margin-left: 30px;
+}
+
+#timer {
+    float:right;
+    margin-right: 30px;
+}
+
+#drawthis {
+    color: rgba(255, 255, 255, 0.8);
+}
