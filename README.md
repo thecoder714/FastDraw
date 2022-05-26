@@ -9,4 +9,4 @@ Upon opening the website, within a few seconds FastDraw will generate a sketch f
 
 ![Screenshot 2022-05-26 at 12 05 28 PM](https://user-images.githubusercontent.com/75258277/170431837-f8b6067b-87a6-4a28-b955-53eafa29a52c.png)
 
-After that, you need to draw the given sketch (in this case it is "The Mona Lisa"), on the white canvas below within 60 seconds. If you draw it correctly, the model will try to recognise the sketch. 
+After that, you need to draw the given sketch (in this case it is "The Mona Lisa"), on the white canvas below within 60 seconds. If you draw it correctly, it will try to recognise what sketch you have drawn. If you drew the correct sketch, your score will be incremented by 1. 
